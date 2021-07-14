@@ -1,0 +1,13 @@
+var a=10;
+var b=12;
+document.write(a);
+var c="how are you<br>";
+var d="hi chlm<br>";
+var a=5;
+var _e=100;
+document.write(a);
+console.log(a+b);
+document.write(a+b);
+document.write(c+d);
+document.write(a+c);
+document.write(_e);
